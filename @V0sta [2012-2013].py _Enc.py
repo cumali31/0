@@ -1,4 +1,5 @@
 #BY : AHMED ALHRRANI
+print("Tekrardan Aktif İyisin Ha Bide Ss Atmayi Unutma Yarragim")
 import os
 import shutil
 import zipfile
